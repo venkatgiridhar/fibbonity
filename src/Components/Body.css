@@ -1,0 +1,9 @@
+.fib-body-summary {
+  color: white;
+  font-weight: bold;
+  font-size: 2.5em;
+}
+.fib-body-click {
+  color: #ffe533;
+  padding-top: 2%;
+}

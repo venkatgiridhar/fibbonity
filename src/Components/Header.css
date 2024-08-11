@@ -1,0 +1,21 @@
+.fib-icon {
+  padding: 8px 4px 8px 12px;
+  vertical-align: middle;
+  max-width: 225px;
+  max-height: 56px;
+
+  float: left;
+}
+.fib-text {
+  color: white;
+  float: right;
+  padding-top: 2%;
+  font-weight: bold;
+}
+.fib-text span {
+  padding-left: 15px;
+}
+.fib-container {
+  margin-left: 2%;
+  margin-right: 2%;
+}
