@@ -9504,7 +9504,7 @@
       });
       k.displayName = "Col";
       const w = k,
-        S = t.p + "docs/assets/images/icon.180c475e7c4276762970.png";
+        S = t.p + "fibbonity/docs/assets/images/icon.180c475e7c4276762970.png";
       const x = function () {
           return (0, u.jsx)("div", {
             children: (0, u.jsxs)(b, {
@@ -9529,8 +9529,8 @@
             }),
           });
         },
-        E = t.p + "docs/assets/images/body.ff2f7596d4f2992096bb.png",
-        C = t.p + "docs/assets/images/info.a9ec141982788bd3e95d.png";
+        E = t.p + "fibbonity/docs/assets/images/body.ff2f7596d4f2992096bb.png",
+        C = t.p + "fibbonity/docs/assets/images/info.a9ec141982788bd3e95d.png";
       const _ = function () {
         return (0, u.jsx)("div", {
           children: (0, u.jsx)(b, {
