@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/fibbonity/static/css/main.26550a9d.css",
-    "main.js": "/fibbonity/static/js/main.15c2bf09.js",
+    "main.js": "/fibbonity/static/js/main.4e55d253.js",
     "static/js/453.0d645f97.chunk.js": "/fibbonity/static/js/453.0d645f97.chunk.js",
     "static/media/info.png": "/fibbonity/static/media/info.a9ec141982788bd3e95d.png",
     "static/media/body.png": "/fibbonity/static/media/body.ff2f7596d4f2992096bb.png",
     "static/media/icon.png": "/fibbonity/static/media/icon.180c475e7c4276762970.png",
     "index.html": "/fibbonity/index.html",
     "main.26550a9d.css.map": "/fibbonity/static/css/main.26550a9d.css.map",
-    "main.15c2bf09.js.map": "/fibbonity/static/js/main.15c2bf09.js.map",
+    "main.4e55d253.js.map": "/fibbonity/static/js/main.4e55d253.js.map",
     "453.0d645f97.chunk.js.map": "/fibbonity/static/js/453.0d645f97.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26550a9d.css",
-    "static/js/main.15c2bf09.js"
+    "static/js/main.4e55d253.js"
   ]
 }
